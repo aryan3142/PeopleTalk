@@ -1,7 +1,7 @@
 # PeopleTalk 
-## A chat application where you can register,login,make your profile and start chatting.
+### A chat application where you can register,login,make your profile and start chatting.
 
-## This application is built using Java.
+### This application is built using Java.
 
 
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Interface.png>)
