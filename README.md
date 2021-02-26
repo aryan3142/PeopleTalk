@@ -6,3 +6,9 @@ This application  was built usingJava and Jsp Servlets.
 
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Interface.png>)
 
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Exception.png>)
+
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Profile.png>)
+
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Interface.png>)
+
