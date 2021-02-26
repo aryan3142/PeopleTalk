@@ -5,5 +5,8 @@ This application  was built using React (Custom Hooks, Context), Firebase & Styl
 
 I used compound components (just a design pattern) to build my components, and there's over 10 examples as to how these are used. The styling is all handled via styled components. Using compound components made my actual dumb components really easy to test.
 
-https://github.com/ryan3142/PeopleTalk/
 ![alt text](<https://github.com/ryan3142/PeopleTalk//master/Interface.png>)
+
+
+![alt text](<https://github.com/Avi-000-Avi/netflix_clone/blob/master/Interface.png>)
+
