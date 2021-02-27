@@ -14,19 +14,19 @@
 #### HTML -> https://www.w3schools.com/html/
 #### CSS -> https://www.w3schools.com/css/
 
-####Home Page : 
+#### Home Page : 
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Home.png>)
 
 
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Home 2.png>)
 
-####Profile
+#### Profile
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/profile.png>)
 
 
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/peopleSearch.png>)
 
-####Chat
+#### Chat
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/chat.png>)
 
 
