@@ -8,6 +8,7 @@
 
 ### Backend -> Java 
 ### Frontend -> Javascript,HTML,CSS
+### Database -> MySQL, ORACLE
 
 #### Java -> https://www.w3schools.com/java/java_intro.asp
 #### Javascript -> https://www.w3schools.com/js/DEFAULT.asp
@@ -38,7 +39,7 @@
 
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/ChangePassword.png>)
 
-
+#### To run the application the .jar (Java Archive) file has to be deployed on a localhost (Apache)
 
 
 
