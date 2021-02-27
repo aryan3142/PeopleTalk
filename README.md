@@ -10,5 +10,4 @@
 
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Profile.png>)
 
-![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Interface.png>)
 
