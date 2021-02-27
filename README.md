@@ -14,14 +14,28 @@
 #### HTML -> https://www.w3schools.com/html/
 #### CSS -> https://www.w3schools.com/css/
 
+####Home Page : 
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Home.png>)
+
+
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Home 2.png>)
+
+####Profile
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/profile.png>)
 
+
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/peopleSearch.png>)
+
+####Chat
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/chat.png>)
+
+
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/EditProfile.png>)
+
+
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/forgetPassword.png>)
+
+
 ![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/ChangePassword.png>)
 
 
