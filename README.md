@@ -1,13 +1,28 @@
 # PeopleTalk 
-### A chat application where you can register,login,make your profile and start chatting.
+### A Web Application where you can: 
+#### 1. Register
+#### 2. Login
+#### 3. Create/Edit your profile
+#### 4. Search your peeps
+#### 5. Chat
 
-### This application is built using Java.
+### Backend -> Java 
+### Frontend -> Javascript,HTML,CSS
 
-![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Registration.png>)
-![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Profile.png>)
-![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Interface.png>)
+#### Java -> https://www.w3schools.com/java/java_intro.asp
+#### Javascript -> https://www.w3schools.com/js/DEFAULT.asp
+#### HTML -> https://www.w3schools.com/html/
+#### CSS -> https://www.w3schools.com/css/
 
-![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Exception.png>)
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Home.png>)
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/Home 2.png>)
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/profile.png>)
+
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/peopleSearch.png>)
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/chat.png>)
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/EditProfile.png>)
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/forgetPassword.png>)
+![alt text](<https://github.com/ryan3142/PeopleTalk/blob/main/ChangePassword.png>)
 
 
 
